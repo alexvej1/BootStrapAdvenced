@@ -23,64 +23,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="article-abouttheartists.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/article-abouttheartists.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.2542373" vertical-offset="0" max-vertical-offset="590">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snippet-artistphotogrid.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/snippet-artistphotogrid.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article-aboutthevenue.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/article-aboutthevenue.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="1422" selection-end="1422" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="start.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/components/partials/start.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="71" selection-start="745" selection-end="745" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
+            <state line="10" column="85" selection-start="515" selection-end="759" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aside-register.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/aside-register.html">
+      <file leaf-file-name="header2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/partials/header2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="8" selection-start="324" selection-end="324" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+            <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aside-lastyear.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/aside-lastyear.html">
+      <file leaf-file-name="snippet_schedule_wednesday.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_wednesday.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="726" selection-end="726" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+            <state line="30" column="0" selection-start="2722" selection-end="2722" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aside-accordion.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/aside-accordion.html">
+      <file leaf-file-name="_myscript.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_/components/js/_myscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="25" selection-start="5562" selection-end="5562" vertical-scroll-proportion="-42.708332" vertical-offset="385" max-vertical-offset="1530">
+            <state line="4" column="55" selection-start="304" selection-end="304" vertical-scroll-proportion="0.09569378" vertical-offset="0" max-vertical-offset="627">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myscript.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/js/myscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="55" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article-schedule.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/partials/article-schedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="snippet_schedule_thursday.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_thursday.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -89,25 +89,25 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="26" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1155">
+            <state line="39" column="60" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1545">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/about.html">
+      <file leaf-file-name="schedule.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/partials/schedule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="2" column="7" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="artists.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/partials/artists.html">
+      <file leaf-file-name="snippet_schedule_tuesday.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_tuesday.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="33" column="22" selection-start="3104" selection-end="3104" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -123,22 +123,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_/components/js/app.js" />
-        <option value="$PROJECT_DIR$/_/components/js/myApp.js" />
-        <option value="$PROJECT_DIR$/_/js/controller.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_/components/partials/about.html" />
-        <option value="$PROJECT_DIR$/_/components/partials/footer.html" />
-        <option value="$PROJECT_DIR$/_/components/partials/privacypolicy.html" />
-        <option value="$PROJECT_DIR$/_/components/partials/snippet-carousel.html" />
-        <option value="$PROJECT_DIR$/_/components/js/_myscript.js" />
-        <option value="$PROJECT_DIR$/_/components/partials/article-aboutthevenue.html" />
         <option value="$PROJECT_DIR$/_/components/partials/start.html" />
         <option value="$PROJECT_DIR$/_/components/partials/aside-register.html" />
         <option value="$PROJECT_DIR$/_/components/partials/aside-lastyear.html" />
         <option value="$PROJECT_DIR$/_/components/partials/aside-accordion.html" />
-        <option value="$PROJECT_DIR$/_/js/app.js" />
         <option value="$PROJECT_DIR$/_/components/partials/article-abouttheartists.html" />
+        <option value="$PROJECT_DIR$/_/components/partials/venuetravel.html" />
+        <option value="$PROJECT_DIR$/_/components/partials/snippet_schedule_friday.html" />
+        <option value="$PROJECT_DIR$/_/components/partials/snippet_schedule_monday.html" />
+        <option value="$PROJECT_DIR$/_/components/partials/snippet_schedule_thursday.html" />
+        <option value="$PROJECT_DIR$/_/components/partials/snippet_schedule_tuesday.html" />
+        <option value="$PROJECT_DIR$/_/components/partials/snippet_schedule_wednesday.html" />
+        <option value="$PROJECT_DIR$/_/components/js/_myscript.js" />
+        <option value="$PROJECT_DIR$/_/js/myscript.js" />
+        <option value="$PROJECT_DIR$/_/components/partials/article-schedule.html" />
+        <option value="$PROJECT_DIR$/_/js/app.js" />
+        <option value="$PROJECT_DIR$/_/components/partials/schedule.html" />
       </list>
     </option>
   </component>
@@ -242,6 +242,28 @@
               <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootStrapAdvenced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootStrapAdvenced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -249,7 +271,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/BootStrapAdvenced_Full" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/BootStrapAdvenced" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -264,14 +286,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -282,15 +296,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -312,27 +334,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1271" height="773" extended-state="0" />
-    <editor active="false" />
+    <frame x="3" y="23" width="1271" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30827066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24783635" sideWeight="0.6917293" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24783635" sideWeight="0.6917293" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30827066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30827066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24783635" sideWeight="0.6917293" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -346,9 +387,79 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_/components/partials/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/article-abouttheartists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/article-venues.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/venuetravel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="85" selection-start="257" selection-end="594" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_friday.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="33" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_monday.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="2482" selection-end="2482" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_thursday.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_tuesday.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="22" selection-start="3104" selection-end="3104" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet_schedule_wednesday.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="2722" selection-end="2722" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_/js/myscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="419">
+        <state line="3" column="55" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="85" selection-start="515" selection-end="759" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
           <folding />
         </state>
       </provider>
@@ -360,100 +471,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet-carousel.html">
+    <entry file="file://$PROJECT_DIR$/_/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="59" selection-end="59" vertical-scroll-proportion="0.07594936" vertical-offset="0" max-vertical-offset="435">
+        <state line="39" column="60" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/article-schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/partials/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/js/_myscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="184" selection-end="184" vertical-scroll-proportion="0.035799522" vertical-offset="0" max-vertical-offset="419">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/article-intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="93" selection-start="1150" selection-end="1215" vertical-scroll-proportion="-2.7083333" vertical-offset="340" max-vertical-offset="735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/snippet-artistphotogrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="419">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/article-aboutthevenue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="1422" selection-end="1422" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/start.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="71" selection-start="745" selection-end="745" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/aside-register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="324" selection-end="324" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/aside-lastyear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="726" selection-end="726" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/aside-accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="25" selection-start="5562" selection-end="5562" vertical-scroll-proportion="-42.708332" vertical-offset="385" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="26" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1155">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/artists.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/partials/article-abouttheartists.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.2542373" vertical-offset="0" max-vertical-offset="590">
+        <state line="4" column="55" selection-start="304" selection-end="304" vertical-scroll-proportion="0.09569378" vertical-offset="0" max-vertical-offset="627">
           <folding />
         </state>
       </provider>

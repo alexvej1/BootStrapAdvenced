@@ -32,6 +32,32 @@ angular.module("roux", ['ngRoute', 'ngSanitize', 'mgcrea.ngStrap'])
 
                 templateUrl: '_/components/partials/start.html'
             })
+
+
+
+            .when('/monday1', {
+
+                templateUrl: '_/components/partials/schedule.html'
+            })
+            .when('/tuesday1', {
+
+                templateUrl: '_/components/partials/schedule.html'
+            })
+            .when('/wednesday1', {
+
+                templateUrl: '_/components/partials/schedule.html'
+            })
+
+            .when('/thursday1', {
+
+                templateUrl: '_/components/partials/schedule.html'
+            })
+            .when('/friday1', {
+
+                templateUrl: '_/components/partials/schedule.html'
+            })
+
+
             .when('/venuetravel', {
 
                 templateUrl: '_/components/partials/venuetravel.html'
