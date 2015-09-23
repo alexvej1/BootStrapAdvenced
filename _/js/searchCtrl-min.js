@@ -1,0 +1,1 @@
+!function(){"use strict";function t(t,a){var n=this;t.startSearch=function(){a.path("/")},t.pageClass=function(t){return t==a.path()?"active":""}}angular.module("roux").controller("searchCtrl",["$scope","$location",t])}();
