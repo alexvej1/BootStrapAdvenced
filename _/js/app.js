@@ -57,6 +57,10 @@ angular.module("roux", ['ngRoute', 'ngSanitize', 'mgcrea.ngStrap'])
                 templateUrl: '_/components/partials/schedule.html'
             })
 
+            .when('/artists', {
+
+                templateUrl: '_/components/partials/artists.html'
+            })
 
             .when('/venuetravel', {
 
